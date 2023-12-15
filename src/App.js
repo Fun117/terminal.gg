@@ -1,23 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import './assets/css/App.css';
+import logAa from './assets/js/scripts';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="terminal_body">
+      <div className='command_line'>
+        <pre>
+          <code>
+            <div id='command_line'>
+              <div>
+                <p>fun117@Fun117-Mac-mini ~ % </p>
+              </div>
+            </div>
+          </code>
+        </pre>
+      </div>
+      <div className='before text_input_field'>
+        <input id='command_input_field' className='command_input_field'></input>
+        <button className='command_input_sub' onClick={logAa}>送信</button>
+      </div>
     </div>
   );
 }

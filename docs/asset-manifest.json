@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/terminal.gg/static/css/main.fcd34f07.css",
+    "main.js": "/terminal.gg/static/js/main.03c68f91.js",
+    "static/js/787.345bb710.chunk.js": "/terminal.gg/static/js/787.345bb710.chunk.js",
+    "index.html": "/terminal.gg/index.html",
+    "main.fcd34f07.css.map": "/terminal.gg/static/css/main.fcd34f07.css.map",
+    "main.03c68f91.js.map": "/terminal.gg/static/js/main.03c68f91.js.map",
+    "787.345bb710.chunk.js.map": "/terminal.gg/static/js/787.345bb710.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcd34f07.css",
+    "static/js/main.03c68f91.js"
+  ]
+}
