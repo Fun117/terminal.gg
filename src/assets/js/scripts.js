@@ -1,5 +1,5 @@
 let command_line_txt_data_json = (JSON.parse(`{"createdBy": "Fun117","version": "0.0.1","commandLine_data": [{"directory": "fun117@Fun117-Mac-mini ~ %","command": ""}]}`));
-console.log(command_line_txt_data_json);
+//console.log(command_line_txt_data_json);
 let command_input_field = "";
 
 function logAa(){
